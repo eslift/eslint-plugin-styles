@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-styles",
   "version": "1.0.0",
-  "repository": "github:eslift/eslint-plugin-styles",
+  "repository": "github:eslint-tools/eslint-plugin-styles",
   "main": "./src/index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.js\"",
